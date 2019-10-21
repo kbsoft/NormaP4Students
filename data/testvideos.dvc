@@ -1,0 +1,7 @@
+md5: 7e38399309b9f84d464fa514247715ae
+outs:
+- md5: c883dba1ee70a506fab6cef4513fef62.dir
+  path: testvideos
+  cache: true
+  metric: false
+  persist: false
