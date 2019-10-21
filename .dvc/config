@@ -1,0 +1,7 @@
+['remote "fs"']
+url = /mnt/hdd_3/Students-DVC/
+[core]
+remote = ssh
+['remote "ssh"']
+url = ssh://dvcrepo@37.194.175.108/mnt/hdd_3/Students-DVC
+port = 11022
